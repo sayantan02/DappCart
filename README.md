@@ -49,7 +49,7 @@ And then run:
 
 This project is deployed to the below link:
 
-- [DappCart](https://www.codelek.com/)
+- [DappCart](https://dappcart.codelek.com/)
 
 ## Badges
 
