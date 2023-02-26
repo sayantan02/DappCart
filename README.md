@@ -42,7 +42,7 @@ And then run:
 
 ## Authors
 
-- [@sayantan02](https://www.github.com/octokatherine)
+- [@sayantan02](https://www.github.com/sayantan02)
 
 
 ## Live Website
